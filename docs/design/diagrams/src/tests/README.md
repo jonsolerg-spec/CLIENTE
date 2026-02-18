@@ -3,7 +3,7 @@
 EliteWalk ERP es un sistema de planificación de recursos empresariales (ERP)
 diseñado para apoyar la gestión interna de la empresa EliteWalk.
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 - /docs  
   Documentación general del proyecto.
@@ -20,7 +20,7 @@ diseñado para apoyar la gestión interna de la empresa EliteWalk.
 - /tests  
   Pruebas del sistema.
 
-## 📌 Enlaces importantes
+##  Enlaces importantes
 
 - Documentación: /docs
 - Diseño: /design
